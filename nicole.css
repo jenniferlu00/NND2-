@@ -1,0 +1,27 @@
+.portrait{
+	width: 400px;
+	height: 500px;
+	margin-top: 100px;
+	margin-left: 200px;
+	border-style: solid;
+	float: left;
+
+}
+.portrait p{
+	margin-left: 5px;
+}
+.bio{
+	width: 300px;
+	height: 500px;
+	margin-left: 700px;
+	position: absolute;
+	margin-top: 100px;
+	border-style: solid;
+}
+.bio p{
+	margin-left: 5px;
+}
+audio{
+	margin-left: 700px;
+	margin-top: 20px;
+}
